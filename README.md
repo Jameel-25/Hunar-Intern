@@ -21,7 +21,7 @@ A diverse dataset containing labeled images of cats and dogs was gathered. The d
 
 ### 4. Model Evaluation
 - **Metrics:** The model's performance was evaluated on the test set using accuracy as the primary metric.
-- **Results:** The model achieved an accuracy of `your_model_accuracy_here`% on the test set, demonstrating its ability to correctly classify images of cats and dogs.
+- **Results:** The model achieved an accuracy of 77.85% on the test set, demonstrating its ability to correctly classify images of cats and dogs.
 
 ### 5. Testing
 The model's generalization capabilities were assessed by evaluating its performance on the test set. The testing phase provided insights into how well the model can classify unseen data.
